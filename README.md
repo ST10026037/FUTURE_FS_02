@@ -1,6 +1,6 @@
 # LeadFlow CRM — Client Lead Management System
 
-A full-stack Mini CRM that captures leads from a public contact form, then lets admins track, update, and manage those leads from a secure dashboard — mirroring how real businesses manage incoming clients.
+A full-stack Mini CRM that captures leads from a public contact form, then lets admins track, update and manage those leads from a secure dashboard — mirroring how real businesses manage incoming clients.
 
 ---
 
@@ -12,7 +12,7 @@ A full-stack Mini CRM that captures leads from a public contact form, then lets 
 - View all incoming leads at a glance
 - Move leads through the sales pipeline (`New → Contacted → Converted → Lost`)
 - Add follow-up notes after each call or email
-- Search, filter, and delete leads
+- Search, filter and delete leads
 - View analytics including conversion rates and source breakdowns
 - Add leads manually without using the contact form
 
