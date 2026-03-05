@@ -4,7 +4,7 @@ A full-stack Mini CRM that captures leads from a public contact form, then lets 
 
 ---
 
-## 🎯 What It Does
+## What It Does
 
 **Public users** visit `/contact` and fill in a form. That submission is saved as a **lead** in the database.
 
@@ -18,7 +18,7 @@ A full-stack Mini CRM that captures leads from a public contact form, then lets 
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -37,7 +37,7 @@ A full-stack Mini CRM that captures leads from a public contact form, then lets 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** + **Vite**
@@ -54,7 +54,7 @@ A full-stack Mini CRM that captures leads from a public contact form, then lets 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -141,7 +141,7 @@ Open your browser and go to **http://localhost:5173** to use the app.
 
 ---
 
-## 🔑 Admin Credentials
+## Admin Credentials
 
 | Email | Password |
 |---|---|
@@ -151,7 +151,7 @@ Open your browser and go to **http://localhost:5173** to use the app.
 
 ---
 
-## 📋 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Auth | Description |
 |---|---|---|---|
@@ -164,7 +164,7 @@ Open your browser and go to **http://localhost:5173** to use the app.
 
 ---
 
-## 🔄 Lead Lifecycle
+## Lead Lifecycle
 
 ```
 Visitor fills /contact form
@@ -175,14 +175,14 @@ Admin sees it on Dashboard
         ↓
 Admin contacts them → status: Contacted
         ↓
-Deal closed  → status: Converted 🎉
+Deal closed  → status: Converted 
    OR
 No response → status: Lost
 ```
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ClientLeadManagementSystem/
@@ -213,3 +213,9 @@ ClientLeadManagementSystem/
         ├── index.css          # Design system (dark mode)
         └── main.jsx           # React entry point
 ```
+
+---
+
+## License
+
+This project is for academic and personal use. All rights reserved © 2026 Omphile Hlongwane.
